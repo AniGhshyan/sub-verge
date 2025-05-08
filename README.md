@@ -78,5 +78,5 @@ This project is a microservice developed using Spring Boot 3, which provides a R
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-repository/user-management-service.git
+   git clone https://github.com/AniGhshyan/sub-verge.git
    cd user-management-service
